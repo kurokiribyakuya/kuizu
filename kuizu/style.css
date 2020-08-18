@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  text-align: center;
+  background-color: #b7d6cefa;
+}
+
+.kuizu {
+  display: inline-block;
+  border: 5px ridge #2fff05;
+  border-radius: 10px;
+  background-color: #00fcbd;
+  width: 200px;
+}
+
+section {
+  padding: 1em;
+  margin: 2em auto;
+  width: 90%;
+  border: double 5px #9c8cf5;
+  background-color: #a5f1ee;
+}
+
+#text_q {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#text_s {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#text_s a:hover {
+  color: #ff00bf;
+}
+
+#text_a {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */

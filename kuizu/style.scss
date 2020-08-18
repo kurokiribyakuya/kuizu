@@ -1,0 +1,41 @@
+body{
+    width:100%; 
+    text-align:center; 
+    background-color: #b7d6cefa;
+}
+
+ .kuizu{
+    display: inline-block;
+     border:  5px ridge #2fff05;
+     border-radius: 10px;
+     background-color: #00fcbd;
+     width: 200px; 
+ }
+
+ section{
+    padding: 1em;
+    margin: 2em auto;
+    width:90%;
+    border: double 5px #9c8cf5;
+    background-color: #a5f1ee;
+ }
+
+#text_q{
+    display:flex;
+    justify-content: center;
+}
+
+#text_s{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+a:hover{
+    color: rgb(255, 0, 191);
+    }
+}
+
+#text_a{
+    color: red;
+}
+
+
