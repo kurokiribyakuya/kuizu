@@ -6,7 +6,8 @@
 
 <h3>問題文</h3>
 
-
+<h2>解答機能</h2>
+<img width="183" alt="スクリーンショット 2020-08-18 21 38 49" src="https://user-images.githubusercontent.com/69723183/90515577-d0f42e00-e19d-11ea-9a5d-aa29cb910e8c.png">
 <h2>追加機能・ページ</h2>
 <img width="787" alt="スクリーンショット 2020-08-18 21 37 28" src="https://user-images.githubusercontent.com/69723183/90515504-ba4dd700-e19d-11ea-9783-c2fb63768858.png">
 <img width="144" alt="スクリーンショット 2020-08-18 21 37 51" src="https://user-images.githubusercontent.com/69723183/90515525-c0dc4e80-e19d-11ea-935f-f51b52b9ffa5.png">
