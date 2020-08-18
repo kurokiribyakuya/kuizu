@@ -9,6 +9,7 @@
 
 <h2>追加機能・ページ</h2>
 <img width="787" alt="スクリーンショット 2020-08-18 21 37 28" src="https://user-images.githubusercontent.com/69723183/90515504-ba4dd700-e19d-11ea-9783-c2fb63768858.png">
+<img width="144" alt="スクリーンショット 2020-08-18 21 37 51" src="https://user-images.githubusercontent.com/69723183/90515525-c0dc4e80-e19d-11ea-935f-f51b52b9ffa5.png">
 <p>最初は、スタートボタンを押すと曲が流れもう一度ボタンを押すと停止する機能とボリュームの調整だけでしたが
 曲がランダムに流れて来たら面白いと考えて機能を追加しました。</p>
 <h2>今後について</h2>
